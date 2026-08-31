@@ -1,4 +1,29 @@
-# The ATLAS GeoGuessr bot for Windows
+# GeoGuessr Bot for Windows: ATLAS Auto Guess
+
+<p align="center">
+  <img src="images/logo.png" alt="ATLAS GeoGuessr bot logo" width="110" />
+</p>
+
+<p align="center">
+  <b>The GeoGuessr bot that plays for you: it opens the match, reads the round, drops the pin, submits, and takes the next one.</b><br/>
+  Classic, Duels, Team Duels and the Daily. Move, No Move and NMPZ. Windows 10 and 11.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sven233333/atlas-geoguessr-windows-app/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr bot for Windows" src="https://img.shields.io/github/stars/Sven233333/atlas-geoguessr-windows-app?style=for-the-badge&logo=github&color=FFD700"></a>
+  <a href="https://geoguessrcheats.com/plans"><img alt="Download the ATLAS GeoGuessr bot" src="https://img.shields.io/badge/Download-geoguessrcheats.com-FF6600?style=for-the-badge"></a>
+  <a href="https://discord.gg/zwYXRgRRHc"><img alt="ATLAS Discord for bot support" src="https://img.shields.io/badge/Discord-Get%20help-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <img alt="Runs on Windows 10 and Windows 11" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows">
+  <img alt="Unattended play, session after session" src="https://img.shields.io/badge/mode-unattended-2ecc71?style=for-the-badge">
+  <img alt="Download size under 4 GB" src="https://img.shields.io/badge/download-under%204%20GB-3498db?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sven233333/Atlas-geoguessr-bot"><b>All platforms</b></a> &middot;
+  <a href="https://geoguessrcheats.com/plans">Plans</a> &middot;
+  <a href="https://geoguessrcheats.com/blog/geoguessr-bot-guide/">Bot guide</a> &middot;
+  <a href="https://geoguessrcheats.com/faq">FAQ</a>
+</p>
 
 Of everything ATLAS runs on, this is the only one you can walk away from.
 
