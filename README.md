@@ -13,6 +13,7 @@
   <a href="https://github.com/Sven233333/atlas-geoguessr-windows-app/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr bot for Windows" src="https://img.shields.io/github/stars/Sven233333/atlas-geoguessr-windows-app?style=for-the-badge&logo=github&color=FFD700"></a>
   <a href="https://geoguessrcheats.com/plans"><img alt="Download the ATLAS GeoGuessr bot" src="https://img.shields.io/badge/Download-geoguessrcheats.com-FF6600?style=for-the-badge"></a>
   <a href="https://discord.gg/zwYXRgRRHc"><img alt="ATLAS Discord for bot support" src="https://img.shields.io/badge/Discord-Get%20help-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://youtu.be/xD9Idg-W3sQ"><img alt="Watch the ATLAS GeoGuessr bot on YouTube" src="https://img.shields.io/badge/Watch-on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <img alt="Runs on Windows 10 and Windows 11" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows">
   <img alt="Unattended play, session after session" src="https://img.shields.io/badge/mode-unattended-2ecc71?style=for-the-badge">
   <img alt="Download size under 4 GB" src="https://img.shields.io/badge/download-under%204%20GB-3498db?style=for-the-badge">
@@ -35,6 +36,10 @@ it again, for as long as you leave it running.
 ![The ATLAS desktop app mid session: four street views of a Japanese street with the predicted location beside them](images/platforms-gui.webp)
 
 Download and pricing: **[geoguessrcheats.com/plans](https://geoguessrcheats.com/plans)**
+
+The bot, unattended:
+
+[![The ATLAS GeoGuessr bot playing a round on its own, video on YouTube](images/video-geoguessr-bot.jpg)](https://youtu.be/xD9Idg-W3sQ)
 
 ---
 
