@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>The GeoGuessr bot that plays for you: it opens the match, reads the round, drops the pin, submits, and takes the next one.</b><br/>
-  Classic, Duels, Team Duels and the Daily. Move, No Move and NMPZ. Windows 10 and 11.
+  Classic, Duels, Team Duels, Country Streak, the Daily and any community map. Move, No Move and NMPZ. Windows 10 and 11.
 </p>
 
 <p align="center">
@@ -68,6 +68,8 @@ scores nothing.
 | Duels | Yes |
 | Team Duels | Yes |
 | The Daily Challenge | Yes |
+| Country Streak | Yes |
+| Any community map | Yes, paste its address into Bot Settings |
 | Move | Yes |
 | No Move | Yes |
 | NMPZ | Yes |
