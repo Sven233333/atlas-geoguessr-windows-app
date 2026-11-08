@@ -41,6 +41,12 @@ The bot, unattended:
 
 [![The ATLAS GeoGuessr bot playing a round on its own, video on YouTube](images/video-geoguessr-bot.jpg)](https://youtu.be/xD9Idg-W3sQ)
 
+## Guides on the site
+
+- [GeoGuessr bot that plays for you](https://geoguessrcheats.com/geoguessr-bot)
+- [GeoGuessr Steam cheat: the full guide](https://geoguessrcheats.com/geoguessr-steam-cheat)
+- [How to cheat in GeoGuessr, every way](https://geoguessrcheats.com/how-to-cheat-in-geoguessr)
+
 ---
 
 ## What unattended means here, precisely
